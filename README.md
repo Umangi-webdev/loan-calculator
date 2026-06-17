@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=💰+Loan+Calculator;📊+EMI+Calculator;⚡+Fast+%7C+Accurate+%7C+Responsive;🚀+Built+With+HTML+CSS+JavaScript">
+</p>
 
 # 💰 Loan Calculator
 
