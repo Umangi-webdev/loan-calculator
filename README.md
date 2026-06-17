@@ -40,18 +40,6 @@ The application provides instant results through a clean and intuitive interface
 
 ---
 
-## 🖼️ Preview
-
-### Loan Calculator Interface
-
-<p align="center">
-  <img src="./screenshots/loan-calculator.png" width="90%">
-</p>
-
-> Add your project screenshot in the `screenshots` folder and update the image path.
-
----
-
 ## 🛠️ Built With
 
 | Technology | Purpose |
