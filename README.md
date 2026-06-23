@@ -168,5 +168,6 @@ Frontend Developer | MERN Stack Enthusiast
 ### ⭐ If you found this project useful, give it a star!
 
 Made with ❤️ using HTML, CSS & JavaScript
+Made with  ❤️ by Umangi
 
 </div>
